@@ -49,6 +49,10 @@
    font-family: sans-serif;
    padding-left: 20px
 }
+
+a:visited {
+  color: white;
+
  .chatborder {
    border: 1px dashed grey;
    text-align: left;
